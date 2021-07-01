@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on any flutter project
 - 💬 Ask me about C++,Java,Flutter,Dart
-- 📫 How to reach me: [My Linkedln Profile](https://www.linkedin.com/in/sudarshan-singh-052170190) or [Email](mailto:sudarshansingh046.com?subject=[GitHub])
+- 📫 How to reach me: [My Linkedln Profile](https://www.linkedin.com/in/mayank-modi-9273b91b6/) or [Email](mailto:m.modi2908@gmail.com?subject=[GitHub])
 
